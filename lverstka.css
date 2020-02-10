@@ -153,8 +153,20 @@ body{
     font-size: 22px;
     text-transform: uppercase;
     letter-spacing: 3.5px;
-    margin: 0 0 35px 0;
+    margin: 20px 0 20px 0;
 
+}
+.item-about__title2{
+    text-align: center;
+    color:#000000;
+    font-size: 22px;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+    margin: 20px 0 20px 0;
+
+}
+.item-about__title2::first-letter{
+    text-transform: lowercase;
 }
 
 .item-about__text{
